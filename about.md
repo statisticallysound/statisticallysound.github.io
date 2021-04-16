@@ -3,27 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! I'm Amos, a senior at Fremont High School.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+*statisticallysound* is a blog that I started to showcase my statistics projects. As the name suggests, my goal is to analyze data and reach meaningful insights with a "statistically sound" methodology and mindset. Stay tuned for more *statisticallysound* content!
 
-There are currently two themes built on Poole:
+# FAQ
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+### What software do you use?
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I use Microsoft Excel, Python, and R to wrangle and analyze the data, and Adobe Photoshop to clean up the visualizations.
 
-## Setup
+### Do you take suggestions?
 
-Some fun facts about the setup of this project include:
+Absolutely! Don't hesitate to direct message me on [Instagram](https://instagram.com/statisticallysound/). Always open to feedback, topic suggestions, and intriguing data sources. I'm happy to fulfill topic requests if I can find appropriate data on the subject.
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+### Where do you find the data?
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Google has been my best friend! In some projects, I've had to web scrape my own data (eg. Jeopardy Daily Doubles), and other times public data is available, just requires some digging and investigation to find the data.
 
+<br>
 Thanks for reading!
